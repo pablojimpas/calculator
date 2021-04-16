@@ -1,5 +1,5 @@
 
-name: Daily
+name: Deploy to Unstable
 
 on:
   push:
